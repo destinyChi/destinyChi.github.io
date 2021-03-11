@@ -362,14 +362,13 @@ html {
 }
 
 body {
-    margin: 0;
-	font-size: 14px;
-	font-family: Helvetica Neue,Helvetica,STHeiTi,Arial,sans-serif;
-	line-height: 1.5;
-    color: #333;
-    min-height: 100%;
-	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
-    url('https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3295793661,2507337096&fm=26&gp=0.jpg') no-repeat 0% 0%/ cover
+  margin: 0;
+  font-size: 14px;
+  font-family: Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+  min-height: 100%
 }
 
 article,
